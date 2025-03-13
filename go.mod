@@ -35,7 +35,7 @@ require (
 	github.com/aws/aws-sdk-go v1.44.122 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/elazarl/goproxy v0.0.0-20190421051319-9d40249d3c2f // indirect
+	github.com/elazarl/goproxy v1.2.1 // indirect
 	github.com/fatih/color v1.15.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
@@ -62,11 +62,11 @@ require (
 	github.com/ulikunitz/xz v0.5.10 // indirect
 	go.etcd.io/bbolt v1.3.8 // indirect
 	go.opencensus.io v0.24.0 // indirect
-	golang.org/x/crypto v0.21.0 // indirect
-	golang.org/x/net v0.23.0 // indirect
-	golang.org/x/sync v0.7.0 // indirect
-	golang.org/x/sys v0.18.0 // indirect
-	golang.org/x/text v0.16.0 // indirect
+	golang.org/x/crypto v0.31.0 // indirect
+	golang.org/x/net v0.33.0 // indirect
+	golang.org/x/sync v0.10.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/text v0.21.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
 	google.golang.org/api v0.152.0 // indirect
 	google.golang.org/genproto v0.0.0-20231106174013-bbf56f31fb17 // indirect
